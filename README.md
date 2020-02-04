@@ -40,6 +40,15 @@ Official Microsoft website : https://www.microsoft.com <br />
 **[ Ctrl ]** + **[ S ]** : copy selected text <br />
 **[ Ctrl ]** + **[ X ]** : cut selected text <br />
 **[ Ctrl ]** + **[ V ]** : paste selected text <br />
+**[ Alt ]** + **[ ↓ ]** : move the whole line down <br />
+**[ Alt ]** + **[ ↑ ]** : move the whole line up <br />
+**[ Ctrl ]** + **[ ↓ ]** : lock the screen and scroll down <br />
+**[ Ctrl ]** + **[ ↑ ]** : lock the screen and scroll up <br />
+**[ Ctrl ]** + **[ [ ]** : indentation to the left <br />
+**[ Ctrl ]** + **[ ] ]** : indentation to the right <br />
+**[ Ctrl ]** + **[ Enter ]** : if inside certain text, skip it, and add a new blank line below it <br />
+**[ Ctrl ]** + **[ Shift ]** + **[ Enter ]** : if inside certain text, skip it, and add a new blank line above it <br />
+**[ Alt ]** + **[ Z ]** : toggle word wrap, if text is out of the screen, wrap it inside the screen; if text is wrap inside the screen, then unwrap it <br />
 
 **_Visual Studio Code actions management_** <br />
 **--- Z --- current action --- Y ---** <br />
@@ -52,6 +61,8 @@ Official Microsoft website : https://www.microsoft.com <br />
 **[ Ctrl ]** + **[ O ]** : open certain file <br />
 **[ Ctrl ]** + **[ N ]** : create new file <br />
 **[ Ctrl ]** + **[ P ]** : open certain file <br />
+**[ Ctrl ]** + **[ Fn ]** + **[ F4 ]** : close certain file <br />
+**[ Ctrl ]** + **[ K ]**,  **[ Ctrl ]** + **[ W ]**: close all files <br />
 
 **_Visual Studio Code integrated terminal_** <br />
 **[ Ctrl ]** + **[ \` ]** : show integrated terminal (first hit) <br />
@@ -64,6 +75,10 @@ Official Microsoft website : https://www.microsoft.com <br />
 **_Visual Studio Code window management_** <br />
 **[ Ctrl ]** + **[ Shift ]** + **[ P ]** : open Visual Studio Code in new window <br />
 **[ Ctrl ]** + **[ Shift ]** + **[ W ]** : close Visual Studio Code whole window <br />
+**[ Ctrl ]** + **[ Shift ]** + **[ X ]** : show close Visual Studio Code extensions <br />
+**[ Fn ]** + **[ F11 ]** : toggle full screen window <br />
+**[ Ctrl ]** + **[ + ]** : zoom in <br />
+**[ Ctrl ]** + **[ - ]** : zoom out <br />
 
 **_Visual Studio Code settings management_** <br />
 **[ Ctrl ]** + **[ ,]** : open Visual Studio Code user settings <br />
