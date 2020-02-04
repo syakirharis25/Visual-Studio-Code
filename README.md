@@ -24,12 +24,11 @@ Official Microsoft website : https://www.microsoft.com <br />
 
 <a name="shortcuts"></a>
 ## 3. Visual Studio Code shortcuts.
-
-**_Visual Studio Code EXPLORER bar_**
+**_Visual Studio Code EXPLORER bar_** <br />
 **[ Ctrl ]** + **[ B ]** : hide the EXPLORER bar (first hit) <br />
 **[ Ctrl ]** + **[ B ]** : show the EXPLORER bar (second hit) <br />
 
-**_Visual Studio Code text management_**
+**_Visual Studio Code text management_** <br />
 **[ Ctrl ]** + **[ F ]** : find certain text <br />
 **[ Ctrl ]** + **[ D ]** : find the same text <br />
 **[ Ctrl ]** + **[ / ]** : commenting <br />
@@ -42,31 +41,31 @@ Official Microsoft website : https://www.microsoft.com <br />
 **[ Ctrl ]** + **[ X ]** : cut selected text <br />
 **[ Ctrl ]** + **[ V ]** : paste selected text <br />
 
-**_Visual Studio Code actions management_**
-**--- Z --- current action --- Y ---**
+**_Visual Studio Code actions management_** <br />
+**--- Z --- current action --- Y ---** <br />
 **[ Ctrl ]** + **[ Z ]** : revert back the previous (current action) - refer to the timeline above <br />
 **[ Ctrl ]** + **[ Y ]** : do back the previous (current action) - refer to the timeline above <br />
 
-**_Visual Studio Code file management_**
+**_Visual Studio Code file management_** <br />
 **[ Ctrl ]** + **[ S ]** : save the active file <br />
 **[ Ctrl ]** + **[ Shift ]** + **[ S ]**: save the active file with desired name <br />
 **[ Ctrl ]** + **[ O ]** : open certain file <br />
 **[ Ctrl ]** + **[ N ]** : create new file <br />
 **[ Ctrl ]** + **[ P ]** : open certain file <br />
 
-**_Visual Studio Code integrated terminal_**
+**_Visual Studio Code integrated terminal_** <br />
 **[ Ctrl ]** + **[ \` ]** : show integrated terminal (first hit) <br />
 **[ Ctrl ]** + **[ \` ]** : hide integrated terminal (second hit) <br />
 **[ Ctrl ]** + **[ Shift ]** + **[ \` ]** : open new integrated terminal <br />
 
-**_Visual Studio Code command pallete_**
+**_Visual Studio Code command pallete_** <br />
 **[ Ctrl ]** + **[ Shift ]** + **[ P ]** : open the command palette <br />
 
-**_Visual Studio Code window management_**
+**_Visual Studio Code window management_** <br />
 **[ Ctrl ]** + **[ Shift ]** + **[ P ]** : open Visual Studio Code in new window <br />
 **[ Ctrl ]** + **[ Shift ]** + **[ W ]** : close Visual Studio Code whole window <br />
 
-**_Visual Studio Code settings management_**
+**_Visual Studio Code settings management_** <br />
 **[ Ctrl ]** + **[ ,]** : open Visual Studio Code user settings <br />
 **[ Ctrl ]** + **[ K ]**,  **[ Ctrl ]** + **[ S ]**: open Keyboard Shortcuts <br />
 
