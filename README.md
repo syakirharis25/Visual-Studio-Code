@@ -32,7 +32,7 @@ Official Microsoft website : https://www.microsoft.com <br />
 **[ Ctrl ]** + **[ F ]** : find certain text <br />
 **[ Ctrl ]** + **[ D ]** : find the same text <br />
 **[ Ctrl ]** + **[ / ]** : commenting <br />
-**[ Ctrl ]** + **[ Shift ]** + **[ D ]** : duplicate the whole line <br />
+**[ Ctrl ]** + **[ Shift ]** + **[ D ]** : duplicate the whole line to the next line below it <br />
 **[ Shift ]** + **[ PgUp ]** : go to the top of the line <br />
 **[ Shift ]** + **[ PgDown ]** : go to the bottom of the line <br />
 **[ Alt ]** + **[ MOUSE LEFT CLICK ]** : adding multiple cursors <br />
