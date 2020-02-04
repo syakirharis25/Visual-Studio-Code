@@ -18,68 +18,59 @@ In the Stack Overflow 2019 Developer Survey, Visual Studio Code was ranked the m
 
 <a name="references"></a>
 ## 2. Official references websites.
+Official Visual Studio Code website : https://code.visualstudio.com/ <br />
+Official Visual Studio Code documentations : https://code.visualstudio.com/docs <br />
 Official Microsoft website : https://www.microsoft.com <br />
-Official Microsoft Windows 10 documentation : https://docs.microsoft.com/en-us/windows/windows-10/ <br />
 
 <a name="shortcuts"></a>
-## 3. Windows 10 shortcuts.
+## 3. Visual Studio Code shortcuts.
 
-**_Windows 10 desktop environment_** <br />
-**[Ctrl]** + **[ ⊞ ]** + **[ D]** : open new windows desktop environment <br />
-**[ ⊞ ]** + **[ Tab ]** : switch between windows desktop environment <br />
-**[ ⊞ ]** + **[ Ctrl ]** + **[ F4 ]** : close the windows desktop environment selection <br />
+**_Visual Studio Code EXPLORER bar_**
+**[ Ctrl ]** + **[ B ]** : hide the EXPLORER bar (first hit) <br />
+**[ Ctrl ]** + **[ B ]** : show the EXPLORER bar (second hit) <br />
 
-**_Windows 10 user interface management_** <br />
-**[ ⊞ ]** + **[ M ]** : minimize everything <br />
-**[ Alt ]** + **[ Space bar ]** : open selection menu to choose between _Restore_, _Move_, _Size_, _Minimize_, _Maximize_, _Close_ <br />
+**_Visual Studio Code text management_**
+**[ Ctrl ]** + **[ F ]** : find certain text <br />
+**[ Ctrl ]** + **[ D ]** : find the same text <br />
+**[ Ctrl ]** + **[ / ]** : commenting <br />
+**[ Ctrl ]** + **[ Shift ]** + **[ D ]** : duplicate the whole line <br />
+**[ Shift ]** + **[ PgUp ]** : go to the top of the line <br />
+**[ Shift ]** + **[ PgDown ]** : go to the bottom of the line <br />
+**[ Alt ]** + **[ MOUSE LEFT CLICK ]** : adding multiple cursors <br />
+**[ Ctrl ]** + **[ Shift ]** + **[ K ]** : delete entire line <br />
+**[ Ctrl ]** + **[ S ]** : copy selected text <br />
+**[ Ctrl ]** + **[ X ]** : cut selected text <br />
+**[ Ctrl ]** + **[ V ]** : paste selected text <br />
 
-**_Windows 10 task bar management_** <br />
-**[ ⊞ ]** + **[ 1 ]** : open the first application windows task bar <br />
-**[ ⊞ ]** + **[ 2 ]** : open the second application windows task bar <br />
-**[ ⊞ ]** + **[ 3 ]** : open the third application windows task bar <br />
-**[ ⊞ ]** + **[ 4 ]** : open the fourth application windows task bar <br />
-**[ ⊞ ]** + **[ 5 ]** : open the fifth application windows task bar <br />
-**[ ⊞ ]** + **[ 6 ]** : open the sixth application windows task bar <br />
-**[ ⊞ ]** + **[ 7 ]** : open the seventh application windows task bar <br />
-**[ ⊞ ]** + **[ 8 ]** : open the eighth application windows task bar <br />
-**[ ⊞ ]** + **[ 9 ]** : open the ninth application windows task bar <br />
-**[ ⊞ ]** + **[ 0 ]** : open the ninth application windows task bar <br />
+**_Visual Studio Code actions management_**
+**--- Z --- current action --- Y ---**
+**[ Ctrl ]** + **[ Z ]** : revert back the previous (current action) - refer to the timeline above <br />
+**[ Ctrl ]** + **[ Y ]** : do back the previous (current action) - refer to the timeline above <br />
 
-**_Windows 10 full screen management_** <br />
-**[ Alt ]** + **[ Enter ]** : full screen mode (first hit) <br />
-**[ Alt ]** + **[ Enter ]** : exit full screen mode (second hit) <br />
+**_Visual Studio Code file management_**
+**[ Ctrl ]** + **[ S ]** : save the active file <br />
+**[ Ctrl ]** + **[ Shift ]** + **[ S ]**: save the active file with desired name <br />
+**[ Ctrl ]** + **[ O ]** : open certain file <br />
+**[ Ctrl ]** + **[ N ]** : create new file <br />
+**[ Ctrl ]** + **[ P ]** : open certain file <br />
 
-**_Windows 10 screen resize management_** <br />
-**[ ⊞ ]** + **[ ← ]** : split the window active screen into half to the left <br />
-**[ ⊞ ]** + **[ → ]** : split the window screen into half to the right <br />
-**[ ⊞ ]** + **[ ↑ ]** : maximize the window screen <br />
+**_Visual Studio Code integrated terminal_**
+**[ Ctrl ]** + **[ \` ]** : show integrated terminal (first hit) <br />
+**[ Ctrl ]** + **[ \` ]** : hide integrated terminal (second hit) <br />
+**[ Ctrl ]** + **[ Shift ]** + **[ \` ]** : open new integrated terminal <br />
 
-**[ ⊞ ]** + **[ ↓ ]** : if the window screen is in maximize size mode, restore it to the default size mode <br />
-**[ ⊞ ]** + **[ ↓ ]** : if the window screen is in default size mode, minimize it into the task bar <br />
+**_Visual Studio Code command pallete_**
+**[ Ctrl ]** + **[ Shift ]** + **[ P ]** : open the command palette <br />
 
-**_Windows 10 applications management_** <br />
-**[ Alt ]** + **[ Tab ]** : show all the running applications and choose the application from the menu 
+**_Visual Studio Code window management_**
+**[ Ctrl ]** + **[ Shift ]** + **[ P ]** : open Visual Studio Code in new window <br />
+**[ Ctrl ]** + **[ Shift ]** + **[ W ]** : close Visual Studio Code whole window <br />
 
-**_Windows 10 tasks management_** <br />
-**[ Ctrl ]** + **[ Shift ]** + **[ Esc ]** : open windows task manager <br />
+**_Visual Studio Code settings management_**
+**[ Ctrl ]** + **[ ,]** : open Visual Studio Code user settings <br />
+**[ Ctrl ]** + **[ K ]**,  **[ Ctrl ]** + **[ S ]**: open Keyboard Shortcuts <br />
 
-**_Windows 10 files management_** <br />
-**[ ⊞ ]** + **[ E ]** : open windows file explorer <br />
-
-**_Windows 10 magnifier_** <br />
-**[ ⊞ ]** + **[ + ]** : open windows magnifier (first hit) <br />
-**[ ⊞ ]** + **[ + ]** : zoom in the targeted screen (after first hit) <br />
-**[ ⊞ ]** + **[ - ]** : zoom out the targeted screen <br />
-**[ ⊞ ]** + **[ Esc ]** : exit the windows 10 magnifier <br />
-
-**_Windows 10 Focus Assist_** <br />
-**[ ⊞ ]** + **[ A ]** : open windows Focus Assist menus <br />
-
-**_Windows 10 Windows Settings_** <br />
-**[ ⊞ ]** + **[ I ]** : open Windows Settings menus <br />
-
-**_Windows 10 Lock Screen_** <br />
-**[ ⊞ ]** + **[ L ]** : lock the windows screen <br />
+Official reference for Visual Studio Code shortcuts : https://code.visualstudio.com/shortcuts/keyboard-shortcuts-windows.pdf
 
 <a name="github"></a>
 ## 4. GitHub notes.
