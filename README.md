@@ -51,7 +51,7 @@ Official Microsoft website : https://www.microsoft.com <br />
 **[ Alt ]** + **[ Z ]** : toggle word wrap, if text is out of the screen, wrap it inside the screen; if text is wrap inside the screen, then unwrap it <br />
 
 **_Visual Studio Code actions management_** <br />
-**--- Z --- current action --- Y ---** <br />
+**--- { Z } --- { current action } --- { Y } ---** <br />
 **[ Ctrl ]** + **[ Z ]** : revert back the previous (current action) - refer to the timeline above <br />
 **[ Ctrl ]** + **[ Y ]** : do back the previous (current action) - refer to the timeline above <br />
 
