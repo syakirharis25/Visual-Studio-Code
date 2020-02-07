@@ -29,7 +29,7 @@ Official Microsoft website : https://www.microsoft.com <br />
 **[ Ctrl ]** + **[ B ]** : show the EXPLORER bar (second hit) <br />
 
 **_Visual Studio Code text management_** <br />
-**[ Ctrl ]** + **[ F ]** : find certain text <br />
+**[ Ctrl ]** + **[ F ]** : find certain text, press [ → ] to unselect the text, but continue with multiple cursor option <br />
 **[ Ctrl ]** + **[ D ]** : find the same text <br />
 **[ Ctrl ]** + **[ / ]** : commenting <br />
 **[ Ctrl ]** + **[ Shift ]** + **[ D ]** : duplicate the whole line to the next line below it <br />
@@ -40,7 +40,6 @@ Official Microsoft website : https://www.microsoft.com <br />
 **[ Ctrl ]** + **[ S ]** : copy selected text <br />
 **[ Ctrl ]** + **[ X ]** : cut selected text <br />
 **[ Ctrl ]** + **[ V ]** : paste selected text <br />
-**[ Ctrl ]** + **[ D ]** : select the next same text after it <br />
 **[ Alt ]** + **[ ↓ ]** : move the whole line down <br />
 **[ Alt ]** + **[ ↑ ]** : move the whole line up <br />
 **[ Ctrl ]** + **[ ↓ ]** : lock the screen and scroll down <br />
