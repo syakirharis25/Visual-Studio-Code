@@ -1,5 +1,5 @@
 # Visual-Studio-Code
-My works related to Visual Studio Code
+My works related to Visual Studio Code.
 
 ## Table of Contents
 1. [Introduction.](#introduction)
