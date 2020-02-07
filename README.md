@@ -40,6 +40,7 @@ Official Microsoft website : https://www.microsoft.com <br />
 **[ Ctrl ]** + **[ S ]** : copy selected text <br />
 **[ Ctrl ]** + **[ X ]** : cut selected text <br />
 **[ Ctrl ]** + **[ V ]** : paste selected text <br />
+**[ Ctrl ]** + **[ D ]** : select the next same text after it <br />
 **[ Alt ]** + **[ ↓ ]** : move the whole line down <br />
 **[ Alt ]** + **[ ↑ ]** : move the whole line up <br />
 **[ Ctrl ]** + **[ ↓ ]** : lock the screen and scroll down <br />
