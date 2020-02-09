@@ -22,6 +22,10 @@ Official Visual Studio Code website : https://code.visualstudio.com/ <br />
 Official Visual Studio Code documentations : https://code.visualstudio.com/docs <br />
 Official Microsoft website : https://www.microsoft.com <br />
 
+**_Visual Studio Code extensions_** <br />
+Create Files & Folders : On The Go by Ritwick Dey : https://marketplace.visualstudio.com/items?itemName=ritwickdey.create-file-folder <br />
+Live Server by Ritwick Dey : https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer <br />
+
 <a name="shortcuts"></a>
 ## 3. Visual Studio Code shortcuts.
 **_Visual Studio Code EXPLORER bar_** <br />
@@ -89,7 +93,7 @@ Official Microsoft website : https://www.microsoft.com <br />
 **[ Ctrl ]** + **[ K ]**, **[ U ]** : close current active tab and save the file <br />
 **[ Ctrl ]** + **[ K ]**, **[ W ]** : close all tabs <br />
 
-**_Visual Studio Code live server management_** <br />
+**_Visual Studio Code live server management, need to install Live Server by Ritwick Dey_** <br />
 **[ Alt ]** + **[ L ]**, **[ Alt ]** +   **[ O ]** : open live server for the current opened file <br />
 **[ Alt ]** + **[ L ]**, **[ Alt ]** +   **[ C ]** : close live server for the current opened file <br />
 
