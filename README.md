@@ -92,6 +92,7 @@ Live Server by Ritwick Dey : https://marketplace.visualstudio.com/items?itemName
 **[ Ctrl ]** + **[ K ]**, **[ Ctrl ]** +   **[ ↓ ]** : close current active tab <br />
 **[ Ctrl ]** + **[ K ]**, **[ U ]** : close current active tab and save the file <br />
 **[ Ctrl ]** + **[ K ]**, **[ W ]** : close all tabs <br />
+**[ Ctrl ]** + **[ Tab ]** : switch between open working files <br />
 
 **_Visual Studio Code live server management, need to install Live Server extension by Ritwick Dey_** <br />
 **[ Alt ]** + **[ L ]**, **[ Alt ]** +   **[ O ]** : open live server for the current opened file <br />
