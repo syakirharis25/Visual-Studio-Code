@@ -93,9 +93,13 @@ Live Server by Ritwick Dey : https://marketplace.visualstudio.com/items?itemName
 **[ Ctrl ]** + **[ K ]**, **[ U ]** : close current active tab and save the file <br />
 **[ Ctrl ]** + **[ K ]**, **[ W ]** : close all tabs <br />
 
-**_Visual Studio Code live server management, need to install Live Server by Ritwick Dey_** <br />
+**_Visual Studio Code live server management, need to install Live Server extension by Ritwick Dey_** <br />
 **[ Alt ]** + **[ L ]**, **[ Alt ]** +   **[ O ]** : open live server for the current opened file <br />
 **[ Alt ]** + **[ L ]**, **[ Alt ]** +   **[ C ]** : close live server for the current opened file <br />
+
+**_Visual Studio Code file and folder management, need to install Create Files & Folders : On The Go by Ritwick Dey_** <br />
+**[ Ctrl ]** + **[ Alt ]** + **[ N ]** : create new file <br />
+**[ Ctrl ]** + **[ Alt ]** + **[ Shift ]** + **[ N ]** : create new folder <br />
 
 Official reference for Visual Studio Code shortcuts : https://code.visualstudio.com/shortcuts/keyboard-shortcuts-windows.pdf
 
