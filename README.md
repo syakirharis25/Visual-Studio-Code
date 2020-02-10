@@ -101,6 +101,8 @@ Live Server by Ritwick Dey : https://marketplace.visualstudio.com/items?itemName
 **_Visual Studio Code file and folder management, need to install Create Files & Folders : On The Go by Ritwick Dey_** <br />
 **[ Ctrl ]** + **[ Alt ]** + **[ N ]** : create new file <br />
 **[ Ctrl ]** + **[ Alt ]** + **[ Shift ]** + **[ N ]** : create new folder <br />
+**[ Ctrl ]** + **[ K ]**, **[ F ]** : close the active folder <br />
+**[ Ctrl ]** + **[ K ]**, **[ Ctrl ]** + **[ O ]** : open new folder <br />
 
 Official reference for Visual Studio Code shortcuts : https://code.visualstudio.com/shortcuts/keyboard-shortcuts-windows.pdf
 
