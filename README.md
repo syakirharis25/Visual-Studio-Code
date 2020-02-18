@@ -5,7 +5,8 @@ My works related to Visual Studio Code.
 1. [Introduction.](#introduction)
 2. [Official references websites.](#references)
 3. [Visual Studio Code shortcuts.](#shortcuts)
-4. [GitHub notes.](#github)
+4. [Selecting Git Bash in integrated terminal.](#gitbash)
+5. [GitHub notes.](#github)
 
 <a name="introduction"></a>
 ## 1. Introduction.
@@ -107,8 +108,12 @@ How do I use Bash on Windows from the Visual Studio Code integrated terminal? : 
 
 Official reference for Visual Studio Code shortcuts : https://code.visualstudio.com/shortcuts/keyboard-shortcuts-windows.pdf
 
+<a name="gitbash"></a>
+## 4. Selecting Git Bash in integrated terminal.
+To select Git Bash using Visual Studio code, press **[ Ctrl ]** + **[ Shift ]** + **[ P ]** on your keyboard, then type `Terminal: Select Default Shell` and press **[ Enter ]** on your keyboard. From the selection menu, **[ Mouse Left Click ]** on `Git Bash` text. Then press **[ Ctrl ]** + **[ \` ]** to open the integrated Visual Studio Code terminal. on the right upper most of the integrated terminal menu combo box, click on `+` symbol, and then **[ Mouse Left Click ]** on the `v` symbol on the combo box and then from the selection show, **[ Mouse Left Click ]** the text `<number:> bash`, to make the bash terminal active on the screen.
+
 <a name="github"></a>
-## 4. GitHub notes.
+## 5. GitHub notes.
 Clone the current GitHub remote repository contents into local machine.
 ```
 $ git clone https://github.com/syakirharis25/Visual-Studio-Code.git
