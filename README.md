@@ -25,6 +25,7 @@ Official Microsoft website : https://www.microsoft.com <br />
 **_Visual Studio Code extensions_** <br />
 Create Files & Folders : On The Go by Ritwick Dey : https://marketplace.visualstudio.com/items?itemName=ritwickdey.create-file-folder <br />
 Live Server by Ritwick Dey : https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer <br />
+How do I use Bash on Windows from the Visual Studio Code integrated terminal? : https://stackoverflow.com/questions/42606837/how-do-i-use-bash-on-windows-from-the-visual-studio-code-integrated-terminal <br />
 
 <a name="shortcuts"></a>
 ## 3. Visual Studio Code shortcuts.
