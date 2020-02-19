@@ -7,6 +7,7 @@ My works related to Visual Studio Code.
 3. [Visual Studio Code shortcuts.](#shortcuts)
 4. [Selecting Git Bash in integrated terminal.](#gitbash)
 5. [GitHub notes.](#github)
+6. [GitHub repository calculation.](#calculation)
 
 <a name="introduction"></a>
 ## 1. Introduction.
@@ -121,3 +122,14 @@ $ cd Visual-Studio-Code/
 $ git remote -v
 $ git status
 ```
+
+<a name="calculation"></a>
+## 6. GitHub repository calculation.
+```
+-------------------------------------------------------------------------------
+Language                     files          blank        comment           code
+-------------------------------------------------------------------------------
+Markdown                         1             15              0             82
+-------------------------------------------------------------------------------
+```
+Refer to : https://github.com/syakirharis25/cloc
