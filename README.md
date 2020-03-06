@@ -34,6 +34,7 @@ How do I use Bash on Windows from the Visual Studio Code integrated terminal? : 
 **_Visual Studio Code EXPLORER bar_** <br />
 **[ Ctrl ]** + **[ B ]** : hide the EXPLORER bar (first hit) <br />
 **[ Ctrl ]** + **[ B ]** : show the EXPLORER bar (second hit) <br />
+**[ Ctrl ]** + **[ Shift ]** + **[ X ]** : show extensions menu <br /> 
 
 **_Visual Studio Code text management_** <br />
 **[ Ctrl ]** + **[ F ]** : find certain text, press [ → ] to unselect the text, but continue with multiple cursor option <br />
