@@ -5,9 +5,14 @@ My works related to Visual Studio Code.
 1. [Introduction.](#introduction)
 2. [Official references websites.](#references)
 3. [Visual Studio Code shortcuts.](#shortcuts)
-4. [Selecting Git Bash in integrated terminal.](#gitbash)
-5. [GitHub notes.](#github)
-6. [GitHub repository calculation.](#calculation)
+4. [Using code command in Command Prompt.](#code) 
+5. [Selecting Git Bash in integrated terminal.](#gitbash)
+6. [GitHub notes.](#github)
+7. [GitHub repository calculation.](#calculation)
+ 
+<a name="code"></a>
+## 4. Using code command in Command Prompt.
+draft
 
 <a name="introduction"></a>
 ## 1. Introduction.
