@@ -29,6 +29,9 @@ Create Files & Folders : On The Go by Ritwick Dey : https://marketplace.visualst
 Live Server by Ritwick Dey : https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer <br />
 How do I use Bash on Windows from the Visual Studio Code integrated terminal? : https://stackoverflow.com/questions/42606837/how-do-i-use-bash-on-windows-from-the-visual-studio-code-integrated-terminal <br />
 
+**_Visual Studio Code related articles_** <br />
+code . is not recognized as an internal or external command by Stack Overflow : https://stackoverflow.com/questions/46638944/code-is-not-recognized-as-an-internal-or-external-command <br />
+
 <a name="shortcuts"></a>
 ## 3. Visual Studio Code shortcuts.
 **_Visual Studio Code EXPLORER bar_** <br />
