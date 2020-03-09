@@ -9,10 +9,6 @@ My works related to Visual Studio Code.
 5. [Selecting Git Bash in integrated terminal.](#gitbash)
 6. [GitHub notes.](#github)
 7. [GitHub repository calculation.](#calculation)
- 
-<a name="code"></a>
-## 4. Using code command in Command Prompt.
-draft
 
 <a name="introduction"></a>
 ## 1. Introduction.
@@ -118,12 +114,18 @@ code . is not recognized as an internal or external command by Stack Overflow : 
 
 Official reference for Visual Studio Code shortcuts : https://code.visualstudio.com/shortcuts/keyboard-shortcuts-windows.pdf
 
+<a name="code"></a>
+## 4. Using code command in Command Prompt.
+To use code command in Command Prompt, you need to add `C:\Users\username\AppData\Local\Programs\Microsoft VS Code\bin` into the windows environment PATH, follow this instructions. On the right hand side of **[ ⊞ ]**, type `edit environment` and then **[ Mouse Left Click ]** the shown text `edit environment variables for your account`, **Environment Variables** menu will appear, press **[ P ]**, make sure the `Path` is highlighted on the screen, then press **[ Tab ]**, **[ E ]**,**[ Tab ]**, **[ N ]**, and then type `C:\Users\username\AppData\Local\Programs\Microsoft VS Code\bin`, then press **[ Enter ]**, **[ Enter ]**, **[ Enter ]**.
+
+Press **[ ⊞ ]** + **[ R ]**, then press **[ C ]**, **[ M ]**, **[ D ]**, **[ Ctrl ]** + **[ Shift ]** + **[ Enter ]**, **[ ← ]**, **[ Enter ]**. Press **[ C ]**, **[ O ]**, **[ D ]**, **[ E ]**, **[ Enter ]**, to test whether the code command in Command Prompt is working or not using the window operating system. 
+
 <a name="gitbash"></a>
-## 4. Selecting Git Bash in integrated terminal.
+## 5. Selecting Git Bash in integrated terminal.
 To select Git Bash using Visual Studio code, press **[ Ctrl ]** + **[ Shift ]** + **[ P ]** on your keyboard, then type `Terminal: Select Default Shell` and press **[ Enter ]** on your keyboard. From the selection menu, **[ Mouse Left Click ]** on `Git Bash` text. Then press **[ Ctrl ]** + **[ \` ]** to open the integrated Visual Studio Code terminal. on the right upper most of the integrated terminal menu combo box, click on `+` symbol, and then **[ Mouse Left Click ]** on the `v` symbol on the combo box and then from the selection show, **[ Mouse Left Click ]** the text `<number:> bash`, to make the bash terminal active on the screen.
 
 <a name="github"></a>
-## 5. GitHub notes.
+## 6. GitHub notes.
 Clone the current GitHub remote repository contents into local machine.
 ```
 $ git clone https://github.com/syakirharis25/Visual-Studio-Code.git
@@ -133,7 +135,7 @@ $ git status
 ```
 
 <a name="calculation"></a>
-## 6. GitHub repository calculation.
+## 7. GitHub repository calculation.
 ```
 -------------------------------------------------------------------------------
 Language                     files          blank        comment           code
