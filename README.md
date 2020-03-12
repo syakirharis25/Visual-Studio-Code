@@ -25,6 +25,9 @@ Official Visual Studio Code website : https://code.visualstudio.com/ <br />
 Official Visual Studio Code documentations : https://code.visualstudio.com/docs <br />
 Official Microsoft website : https://www.microsoft.com <br />
 
+**_Visual Studio Code documentation by code.visualstudio.com_** <br />
+Emmet in Visual Studio Code by code.visualstudio.com : https://code.visualstudio.com/docs/editor/emmet <br />
+
 **_Visual Studio Code extensions_** <br />
 Create Files & Folders : On The Go by Ritwick Dey : https://marketplace.visualstudio.com/items?itemName=ritwickdey.create-file-folder <br />
 Live Server by Ritwick Dey : https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer <br />
