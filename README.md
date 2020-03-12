@@ -28,6 +28,9 @@ Official Microsoft website : https://www.microsoft.com <br />
 **_Visual Studio Code documentation by code.visualstudio.com_** <br />
 Emmet in Visual Studio Code by code.visualstudio.com : https://code.visualstudio.com/docs/editor/emmet <br />
 
+**_Visual Studio Code marketplace_** <br />
+React-Native/React/Redux snippets for es6/es7 version Standard : https://marketplace.visualstudio.com/items?itemName=EQuimper.react-native-react-redux-snippets-for-es6-es7-version-standard <br />
+
 **_Visual Studio Code extensions_** <br />
 Create Files & Folders : On The Go by Ritwick Dey : https://marketplace.visualstudio.com/items?itemName=ritwickdey.create-file-folder <br />
 Live Server by Ritwick Dey : https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer <br />
