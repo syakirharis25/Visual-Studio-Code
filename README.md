@@ -25,6 +25,9 @@ Official Visual Studio Code website : https://code.visualstudio.com/ <br />
 Official Visual Studio Code documentations : https://code.visualstudio.com/docs <br />
 Official Microsoft website : https://www.microsoft.com <br />
 
+**_Visual Studio Code questions and answers_** <br />
+Stack Overflow official website : https://stackoverflow.com <br />
+
 **_Visual Studio Code documentation by code.visualstudio.com_** <br />
 Emmet in Visual Studio Code by code.visualstudio.com : https://code.visualstudio.com/docs/editor/emmet <br />
 
@@ -38,6 +41,9 @@ How do I use Bash on Windows from the Visual Studio Code integrated terminal? : 
 
 **_Visual Studio Code related articles_** <br />
 code . is not recognized as an internal or external command by Stack Overflow : https://stackoverflow.com/questions/46638944/code-is-not-recognized-as-an-internal-or-external-command <br />
+
+**_Visual Studio Code questions and answers by Stack Overflow_**
+How to change default browser with VS Code's “open with live server”? by Stack Overflow : https://stackoverflow.com/questions/49289233/how-to-change-default-browser-with-vs-codes-open-with-live-server/51580183 <br />
 
 <a name="shortcuts"></a>
 ## 3. Visual Studio Code shortcuts.
