@@ -6,9 +6,10 @@ My works related to Visual Studio Code.
 2. [Official references websites.](#references)
 3. [Visual Studio Code shortcuts.](#shortcuts)
 4. [Using code command in Command Prompt.](#code) 
-5. [Selecting Git Bash in integrated terminal.](#gitbash)
-6. [GitHub notes.](#github)
-7. [GitHub repository calculation.](#calculation)
+5. [Selecting Google Chrome as default live server.](#liveserver)
+6. [Selecting Git Bash in integrated terminal.](#gitbash)
+7. [GitHub notes.](#github)
+8. [GitHub repository calculation.](#calculation)
 
 <a name="introduction"></a>
 ## 1. Introduction.
@@ -130,14 +131,18 @@ Official reference for Visual Studio Code shortcuts : https://code.visualstudio.
 ## 4. Using code command in Command Prompt.
 To use code command in Command Prompt, you need to add `C:\Users\username\AppData\Local\Programs\Microsoft VS Code\bin` into the windows environment PATH, follow this instructions. On the right hand side of **[ ⊞ ]**, type `edit environment` and then **[ Mouse Left Click ]** the shown text `edit environment variables for your account`, **Environment Variables** menu will appear, press **[ P ]**, make sure the `Path` is highlighted on the screen, then press **[ Tab ]**, **[ E ]**,**[ Tab ]**, **[ N ]**, and then type `C:\Users\username\AppData\Local\Programs\Microsoft VS Code\bin`, then press **[ Enter ]**, **[ Enter ]**, **[ Enter ]**.
 
-Press **[ ⊞ ]** + **[ R ]**, then press **[ C ]**, **[ M ]**, **[ D ]**, **[ Ctrl ]** + **[ Shift ]** + **[ Enter ]**, **[ ← ]**, **[ Enter ]**. Press **[ C ]**, **[ O ]**, **[ D ]**, **[ E ]**, **[ Enter ]**, to test whether the code command in Command Prompt is working or not using the window operating system. 
+Press **[ ⊞ ]** + **[ R ]**, then press **[ C ]**, **[ M ]**, **[ D ]**, **[ Ctrl ]** + **[ Shift ]** + **[ Enter ]**, **[ ← ]**, **[ Enter ]**. Press **[ C ]**, **[ O ]**, **[ D ]**, **[ E ]**, **[ Enter ]**, to test whether the code command in Command Prompt is working or not using the window operating system.
+
+<a name="liveserver"></a>
+## 5. Selecting Google Chrome as default live server.
+Press **[ Ctrl ]** + **[ , ]**, on the text box that shown `Search settings`, type `live server` and wait for the **live server** menu to appear on the screen. Find the text `Live Server > Settings: Custom Browser`, under its combo box, **[ Mouse Left Click ]** the `v` symbol and then select `chrome`.
 
 <a name="gitbash"></a>
-## 5. Selecting Git Bash in integrated terminal.
+## 6. Selecting Git Bash in integrated terminal.
 To select Git Bash using Visual Studio code, press **[ Ctrl ]** + **[ Shift ]** + **[ P ]** on your keyboard, then type `Terminal: Select Default Shell` and press **[ Enter ]** on your keyboard. From the selection menu, **[ Mouse Left Click ]** on `Git Bash` text. Then press **[ Ctrl ]** + **[ \` ]** to open the integrated Visual Studio Code terminal. on the right upper most of the integrated terminal menu combo box, click on `+` symbol, and then **[ Mouse Left Click ]** on the `v` symbol on the combo box and then from the selection show, **[ Mouse Left Click ]** the text `<number:> bash`, to make the bash terminal active on the screen.
 
 <a name="github"></a>
-## 6. GitHub notes.
+## 7. GitHub notes.
 Clone the current GitHub remote repository contents into local machine.
 ```
 $ git clone https://github.com/syakirharis25/Visual-Studio-Code.git
@@ -147,7 +152,7 @@ $ git status
 ```
 
 <a name="calculation"></a>
-## 7. GitHub repository calculation.
+## 8. GitHub repository calculation.
 ```
 -------------------------------------------------------------------------------
 Language                     files          blank        comment           code
