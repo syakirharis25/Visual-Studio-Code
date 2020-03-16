@@ -125,6 +125,12 @@ How to change default browser with VS Code's “open with live server”? by Sta
 **[ Ctrl ]** + **[ K ]**, **[ F ]** : close the active folder <br />
 **[ Ctrl ]** + **[ K ]**, **[ Ctrl ]** + **[ O ]** : open new folder <br />
 
+**_Visual Studio Code keyboard management_** <br />
+**[ Ctrl ]** + **[ K ]**, **[ Ctrl ]** + **[ S ]** : open Keyboard Shortcuts menu <br />
+
+**_Visual Studio Code Prettier formatter_** <br />
+**[ Shift ]** + **[ Alt ]** + **[ F ]** : format document <br />
+
 Official reference for Visual Studio Code shortcuts : https://code.visualstudio.com/shortcuts/keyboard-shortcuts-windows.pdf
 
 <a name="code"></a>
