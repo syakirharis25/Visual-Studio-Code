@@ -137,6 +137,8 @@ Press **[ ⊞ ]** + **[ R ]**, then press **[ C ]**, **[ M ]**, **[ D ]**, **[ C
 ## 5. Selecting Google Chrome as default live server.
 Press **[ Ctrl ]** + **[ , ]**, on the text box that shown `Search settings`, type `live server` and wait for the **live server** menu to appear on the screen. Find the text `Live Server > Settings: Custom Browser`, under its combo box, **[ Mouse Left Click ]** the `v` symbol and then select `chrome`.
 
+On the open `index.html` file, press **[ Alt ]** + **[ L ]**, **[ Alt ]** + **[ O ]** to test whether the selected browser is opening on the screen or not.
+
 <a name="gitbash"></a>
 ## 6. Selecting Git Bash in integrated terminal.
 To select Git Bash using Visual Studio code, press **[ Ctrl ]** + **[ Shift ]** + **[ P ]** on your keyboard, then type `Terminal: Select Default Shell` and press **[ Enter ]** on your keyboard. From the selection menu, **[ Mouse Left Click ]** on `Git Bash` text. Then press **[ Ctrl ]** + **[ \` ]** to open the integrated Visual Studio Code terminal. on the right upper most of the integrated terminal menu combo box, click on `+` symbol, and then **[ Mouse Left Click ]** on the `v` symbol on the combo box and then from the selection show, **[ Mouse Left Click ]** the text `<number:> bash`, to make the bash terminal active on the screen.
