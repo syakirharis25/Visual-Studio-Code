@@ -53,7 +53,8 @@ How to change default browser with VS Code's “open with live server”? by Sta
 **[ Ctrl ]** + **[ B ]** : hide the EXPLORER bar (first hit) <br />
 **[ Ctrl ]** + **[ B ]** : show the EXPLORER bar (second hit) <br />
 **[ Ctrl ]** + **[ Shift ]** + **[ E ]** : show the EXPLORER bar <br />
-**[ Ctrl ]** + **[ Shift ]** + **[ X ]** : show extensions menu <br /> 
+**[ Ctrl ]** + **[ Shift ]** + **[ X ]** : show extensions menu <br />
+**[ Fn ]** + **[ F2 ]** : rename the file <br />
 
 **_Visual Studio Code text management_** <br />
 **[ Ctrl ]** + **[ F ]** : find certain text, press [ → ] to unselect the text, but continue with multiple cursor option <br />
