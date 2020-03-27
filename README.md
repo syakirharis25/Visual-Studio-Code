@@ -39,13 +39,14 @@ React-Native/React/Redux snippets for es6/es7 version Standard : https://marketp
 **_Visual Studio Code extensions_** <br />
 Create Files & Folders : On The Go by Ritwick Dey : https://marketplace.visualstudio.com/items?itemName=ritwickdey.create-file-folder <br />
 Live Server by Ritwick Dey : https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer <br />
-How do I use Bash on Windows from the Visual Studio Code integrated terminal? : https://stackoverflow.com/questions/42606837/how-do-i-use-bash-on-windows-from-the-visual-studio-code-integrated-terminal <br />
+DupChecker : https://marketplace.visualstudio.com/items?itemName=jianbingfang.dupchecker <br />
 
 **_Visual Studio Code related articles_** <br />
 code . is not recognized as an internal or external command by Stack Overflow : https://stackoverflow.com/questions/46638944/code-is-not-recognized-as-an-internal-or-external-command <br />
 
 **_Visual Studio Code questions and answers by Stack Overflow_**
 How to change default browser with VS Code's “open with live server”? by Stack Overflow : https://stackoverflow.com/questions/49289233/how-to-change-default-browser-with-vs-codes-open-with-live-server/51580183 <br />
+How do I use Bash on Windows from the Visual Studio Code integrated terminal? : https://stackoverflow.com/questions/42606837/how-do-i-use-bash-on-windows-from-the-visual-studio-code-integrated-terminal <br />
 
 <a name="shortcuts"></a>
 ## 3. Visual Studio Code shortcuts.
