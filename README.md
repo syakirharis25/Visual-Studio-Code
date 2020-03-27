@@ -51,8 +51,8 @@ How do I use Bash on Windows from the Visual Studio Code integrated terminal? : 
 
 <a name="developers"></a>
 ## 3. Visual Studio Code developers.
-Ritwick Dey : https://github.com/ritwickdey, https://twitter.com/dey_ritwick <br />
 Jianbing Fang : https://github.com/jianbingfang <br />
+Ritwick Dey : https://github.com/ritwickdey, https://twitter.com/dey_ritwick <br />
 
 <a name="shortcuts"></a>
 ## 4. Visual Studio Code shortcuts.
