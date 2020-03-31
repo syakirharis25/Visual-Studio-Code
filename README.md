@@ -84,6 +84,7 @@ Ritwick Dey : https://github.com/ritwickdey, https://twitter.com/dey_ritwick <br
 **[ Ctrl ]** + **[ Enter ]** : if inside certain text, skip it, and add a new blank line below it <br />
 **[ Ctrl ]** + **[ Shift ]** + **[ Enter ]** : if inside certain text, skip it, and add a new blank line above it <br />
 **[ Alt ]** + **[ Z ]** : toggle word wrap, if text is out of the screen, wrap it inside the screen; if text is wrap inside the screen, then unwrap it <br />
+**[ Fn ]** + **[ F2 ]** : rename symbol <br />
 
 **_Visual Studio Code actions management_** <br />
 **--- { Z } --- { current action } --- { Y } ---** <br />
