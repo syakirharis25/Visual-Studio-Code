@@ -37,6 +37,7 @@ Debugging by code.visualstudio.com : https://code.visualstudio.com/docs/editor/d
 
 **_Visual Studio Code marketplace_** <br />
 React-Native/React/Redux snippets for es6/es7 version Standard : https://marketplace.visualstudio.com/items?itemName=EQuimper.react-native-react-redux-snippets-for-es6-es7-version-standard <br />
+vscode-icons : https://marketplace.visualstudio.com/items?itemName=vscode-icons-team.vscode-icons <br />
 
 **_Visual Studio Code extensions_** <br />
 Create Files & Folders : On The Go by Ritwick Dey : https://marketplace.visualstudio.com/items?itemName=ritwickdey.create-file-folder <br />
