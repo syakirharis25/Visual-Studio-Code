@@ -146,8 +146,11 @@ Ritwick Dey : https://github.com/ritwickdey, https://twitter.com/dey_ritwick <br
 **_Visual Studio Code Prettier formatter_** <br />
 **[ Shift ]** + **[ Alt ]** + **[ F ]** : format document <br />
 
-**_Visual Studio references_** <br />
+**_Visual Studio Code references_** <br />
 **[ Shift ]** + **[ Fn ]** + **[ Alt ]** + **[ F12 ]** : find all references <br />
+
+**_Visual Studio Code program management_** <br />
+**[ Fn ]** + **[ F5 ]** : run the program <br />
 
 Official reference for Visual Studio Code shortcuts : https://code.visualstudio.com/shortcuts/keyboard-shortcuts-windows.pdf
 
