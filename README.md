@@ -45,6 +45,7 @@ vscode-reveal : https://marketplace.visualstudio.com/items?itemName=evilz.vscode
 Create Files & Folders : On The Go by Ritwick Dey : https://marketplace.visualstudio.com/items?itemName=ritwickdey.create-file-folder <br />
 Live Server by Ritwick Dey : https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer <br />
 DupChecker by Jianbing Fang : https://marketplace.visualstudio.com/items?itemName=jianbingfang.dupchecker <br />
+Preview on Web Server by Yuichi Nakayama : https://marketplace.visualstudio.com/items?itemName=yuichinukiyama.vscode-preview-server <br />
 
 **_Visual Studio Code related articles_** <br />
 code . is not recognized as an internal or external command by Stack Overflow : https://stackoverflow.com/questions/46638944/code-is-not-recognized-as-an-internal-or-external-command <br />
