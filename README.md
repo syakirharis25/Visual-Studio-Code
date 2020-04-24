@@ -153,6 +153,9 @@ Ritwick Dey : https://github.com/ritwickdey, https://twitter.com/dey_ritwick <br
 **_Visual Studio Code program management_** <br />
 **[ Fn ]** + **[ F5 ]** : run the program <br />
 
+**_Visual Studio Code markdown management_** <br />
+**[ Ctrl ]** + **[ K ]**, **[ V ]** : open preview to the side of Visual Studio Code <br />
+
 Official reference for Visual Studio Code shortcuts : https://code.visualstudio.com/shortcuts/keyboard-shortcuts-windows.pdf
 
 <a name="code"></a>
