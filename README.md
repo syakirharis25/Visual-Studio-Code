@@ -68,6 +68,10 @@ Ritwick Dey : https://github.com/ritwickdey, https://twitter.com/dey_ritwick <br
 **[ Ctrl ]** + **[ Shift ]** + **[ X ]** : show extensions menu <br />
 **[ Fn ]** + **[ F2 ]** : rename the file <br />
 
+**_Visual Studio Code text management | Linux_** <br />
+**[ Ctrl ]** + **[ Shift ]** + **[ Alt ]** + **[ (Numpad) 8 ↑ ]** : move the whole line up <br />
+**[ Ctrl ]** + **[ Shift ]** + **[ Alt ]** + **[ (Numpad) 2 ↓ ]** : move the whole line down <br />
+
 **_Visual Studio Code text management_** <br />
 **[ Ctrl ]** + **[ F ]** : find certain text, press [ → ] to unselect the text, but continue with multiple cursor option <br />
 **[ Ctrl ]** + **[ D ]** : find the same text <br />
