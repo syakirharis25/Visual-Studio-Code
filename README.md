@@ -151,7 +151,8 @@ Ritwick Dey : https://github.com/ritwickdey, https://twitter.com/dey_ritwick <br
 **[ Shift ]** + **[ Fn ]** + **[ Alt ]** + **[ F12 ]** : find all references <br />
 
 **_Visual Studio Code program management_** <br />
-**[ Fn ]** + **[ F5 ]** : run the program <br />
+**[ Fn ]** + **[ F5 ]** : start debugging <br />
+**[ Ctrl ]** + **[ Fn ]** + **[ F5 ]** : run without debugging <br />
 
 **_Visual Studio Code markdown management_** <br />
 **[ Ctrl ]** + **[ K ]**, **[ V ]** : open preview to the side of Visual Studio Code <br />
